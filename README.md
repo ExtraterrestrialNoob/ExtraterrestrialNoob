@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ExtraterrestrialNoob your out of world noob programmer.
+- beep beep 
 
 <!---
 ExtraterrestrialNoob/ExtraterrestrialNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
